@@ -1,6 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+    <title>Mis articulos en audio</title>
+    <link>https://robertoroseteg-cloud.github.io/rebfeminismo</link>
+    <description>Articulos de mis feeds RSS convertidos a audio automaticamente.</description>
+    <language>es</language>
+    <itunes:author>Pipeline automatico</itunes:author>
+    
+    <item>
+      <title>Alba o la esperanza de Ecuador</title>
+      <description>Feminismos – Rebelion — https://rebelion.org/alba-o-la-esperanza-de-ecuador-2/</description>
+      <link>https://rebelion.org/alba-o-la-esperanza-de-ecuador-2/</link>
+      <guid isPermaLink="false">a326ea564ae768cd</guid>
+      <pubDate>Sun, 05 Jul 2026 22:27:09 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/a326ea564ae768cd.mp3" length="3197376" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Qué tiene de emancipador el feminismo del siglo XXI</title>
+      <description>Feminismos – Rebelion — https://rebelion.org/que-tiene-de-emancipador-el-feminismo-del-siglo-xxi/</description>
+      <link>https://rebelion.org/que-tiene-de-emancipador-el-feminismo-del-siglo-xxi/</link>
+      <guid isPermaLink="false">06bc804f6a0a1102</guid>
+      <pubDate>Sun, 05 Jul 2026 22:26:19 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/06bc804f6a0a1102.mp3" length="9140112" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>¿Demasiado feminismo?</title>
+      <description>Feminismos – Rebelion — https://rebelion.org/demasiado-feminismo/</description>
+      <link>https://rebelion.org/demasiado-feminismo/</link>
+      <guid isPermaLink="false">c361c203c7a863b9</guid>
+      <pubDate>Sun, 05 Jul 2026 22:24:25 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/c361c203c7a863b9.mp3" length="2676672" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La historia del arte no es tan hetero como nos la contaron</title>
+      <description>Feminismos – Rebelion — https://rebelion.org/882797-2/</description>
+      <link>https://rebelion.org/882797-2/</link>
+      <guid isPermaLink="false">4c0497d6000f15ae</guid>
+      <pubDate>Sun, 05 Jul 2026 22:23:56 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/4c0497d6000f15ae.mp3" length="3581856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La ternura como brújula ética</title>
+      <description>Feminismos – Rebelion — https://rebelion.org/la-ternura-como-brujula-etica/</description>
+      <link>https://rebelion.org/la-ternura-como-brujula-etica/</link>
+      <guid isPermaLink="false">11a63e80a03986ef</guid>
+      <pubDate>Sun, 05 Jul 2026 22:23:27 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/11a63e80a03986ef.mp3" length="7288560" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Más allá de Campoamor, Ibárruri y Kent: las otras diputadas republicanas a las que la historia ha olvidado</title>
+      <description>Feminismos – Rebelion — https://rebelion.org/mas-alla-de-campoamor-ibarruri-y-kent-las-otras-diputadas-republicanas-a-las-que-la-historia-ha-olvidado-2/</description>
+      <link>https://rebelion.org/mas-alla-de-campoamor-ibarruri-y-kent-las-otras-diputadas-republicanas-a-las-que-la-historia-ha-olvidado-2/</link>
+      <guid isPermaLink="false">6511f788208895ee</guid>
+      <pubDate>Sun, 05 Jul 2026 22:21:59 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/6511f788208895ee.mp3" length="2928528" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El triunfo de los proxenetas</title>
+      <description>Feminismos – Rebelion — https://rebelion.org/el-triunfo-de-los-proxenetas/</description>
+      <link>https://rebelion.org/el-triunfo-de-los-proxenetas/</link>
+      <guid isPermaLink="false">649880792eef6c30</guid>
+      <pubDate>Sun, 05 Jul 2026 22:21:47 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/649880792eef6c30.mp3" length="1440576" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Los datos que demuestran que hombres y mujeres tienen una idea distinta del consentimiento sexual</title>
+      <description>Feminismos – Rebelion — https://rebelion.org/los-datos-que-demuestran-que-hombres-y-mujeres-tienen-una-idea-distinta-del-consentimiento-sexual/</description>
+      <link>https://rebelion.org/los-datos-que-demuestran-que-hombres-y-mujeres-tienen-una-idea-distinta-del-consentimiento-sexual/</link>
+      <guid isPermaLink="false">abe2ad48a25461a8</guid>
+      <pubDate>Sun, 05 Jul 2026 22:21:28 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/abe2ad48a25461a8.mp3" length="2414016" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El manual de la ultraderecha para atacar a las feministas en América Latina</title>
+      <description>Feminismos – Rebelion — https://rebelion.org/el-manual-de-la-ultraderecha-para-atacar-a-las-feministas-en-america-latina/</description>
+      <link>https://rebelion.org/el-manual-de-la-ultraderecha-para-atacar-a-las-feministas-en-america-latina/</link>
+      <guid isPermaLink="false">a225da90ddff344f</guid>
+      <pubDate>Sun, 05 Jul 2026 22:20:53 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/a225da90ddff344f.mp3" length="6451776" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Zulema, la intrépida “Claudia”</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/zulema-la-intrepida-claudia/</description>
+      <link>https://desinformemonos.org/zulema-la-intrepida-claudia/</link>
+      <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Las guerras por Guerrero</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/las-guerras-por-guerrero-2/</description>
+      <link>https://desinformemonos.org/las-guerras-por-guerrero-2/</link>
+      <guid isPermaLink="false">b9c7c02dd55c5ef7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/b9c7c02dd55c5ef7.mp3" length="3403296" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuando el capital invocó a la patria fue para colonizar territorio mapuche</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</description>
+      <link>https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</link>
+      <guid isPermaLink="false">0476f85ad805e9dc</guid>
+      <pubDate>Sun, 05 Jul 2026 07:17:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/0476f85ad805e9dc.mp3" length="3473856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chile y Argentina: Dos Estados contra un mismo territorio (fronteras que se derriten al toque del capital)</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</description>
+      <link>https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</link>
+      <guid isPermaLink="false">93288eccb26a0137</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:52 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/93288eccb26a0137.mp3" length="1488240" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pero dos lo zarandeaban para que se callara</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</description>
+      <link>https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</link>
+      <guid isPermaLink="false">2a34cb5da8e007d8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:35 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/2a34cb5da8e007d8.mp3" length="3647376" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Violencia fatal e impunidad contra pueblos indígenas en Paraguay</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</description>
+      <link>https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</link>
+      <guid isPermaLink="false">bd51fc61a35596c8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:58 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/bd51fc61a35596c8.mp3" length="1241856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lo político en Cecosesola</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/lo-politico-en-cecosesola/</description>
+      <link>https://desinformemonos.org/lo-politico-en-cecosesola/</link>
+      <guid isPermaLink="false">731770e3cc47abd7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/731770e3cc47abd7.mp3" length="1417824" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Maternidades en espera: ser madre y solicitar asilo en México</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</description>
+      <link>https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</link>
+      <guid isPermaLink="false">aa0cd6c5f0b33f27</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:37 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/aa0cd6c5f0b33f27.mp3" length="2482848" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Del plan Colombia al Plan Ecuador. Reconfigurando la arquitectura imperial</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</description>
+      <link>https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</link>
+      <guid isPermaLink="false">599f2175eaa58998</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/599f2175eaa58998.mp3" length="4633776" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>UNESCO, GEF, CAF y el Acuífero Guaraní. Un nuevo requerimiento sin agua bendita</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</description>
+      <link>https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</link>
+      <guid isPermaLink="false">dbfeb9bd6a06d9f0</guid>
+      <pubDate>Sun, 05 Jul 2026 07:14:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/dbfeb9bd6a06d9f0.mp3" length="1661328" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La mejor ayuda para Venezuela es levantar el bloqueo</title>
+      <description>Venezuela – Rebelion — https://rebelion.org/la-mejor-ayuda-para-venezuela-es-levantar-el-bloqueo/</description>
+      <link>https://rebelion.org/la-mejor-ayuda-para-venezuela-es-levantar-el-bloqueo/</link>
+      <guid isPermaLink="false">9ab010c1c4dc0d72</guid>
+      <pubDate>Sun, 05 Jul 2026 06:04:36 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/9ab010c1c4dc0d72.mp3" length="1422144" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
