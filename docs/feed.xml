@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Premio al film ecofeminista «Raxnaquil K’aslemal: Plenitud de la vida»</title>
+      <description>Feminismos – Rebelion — https://rebelion.org/premio-al-film-ecofeminista-raxnaquil-kaslemal-plenitud-de-la-vida/</description>
+      <link>https://rebelion.org/premio-al-film-ecofeminista-raxnaquil-kaslemal-plenitud-de-la-vida/</link>
+      <guid isPermaLink="false">f995ae68c4111fdd</guid>
+      <pubDate>Sat, 25 Jul 2026 15:51:22 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/f995ae68c4111fdd.mp3" length="1090368" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El movimiento Mujeres Agropecuarias en Lucha cumplió 31 años</title>
       <description>Feminismos – Rebelion — https://rebelion.org/el-movimiento-mujeres-agropecuarias-en-lucha-cumplio-31-anos/</description>
       <link>https://rebelion.org/el-movimiento-mujeres-agropecuarias-en-lucha-cumplio-31-anos/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
       <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Las guerras por Guerrero</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/las-guerras-por-guerrero-2/</description>
-      <link>https://desinformemonos.org/las-guerras-por-guerrero-2/</link>
-      <guid isPermaLink="false">b9c7c02dd55c5ef7</guid>
-      <pubDate>Sun, 05 Jul 2026 07:18:05 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/b9c7c02dd55c5ef7.mp3" length="3403296" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
