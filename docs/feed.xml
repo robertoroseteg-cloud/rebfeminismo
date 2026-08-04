@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Femicidio político de Monika Silvia Koniuszek, defensora de Derechos Humanos</title>
+      <description>Feminismos – Rebelion — https://rebelion.org/femicidio-politico-de-monika-silvia-koniuszek-defensora-de-derechos-humanos/</description>
+      <link>https://rebelion.org/femicidio-politico-de-monika-silvia-koniuszek-defensora-de-derechos-humanos/</link>
+      <guid isPermaLink="false">e48a2b199db10a89</guid>
+      <pubDate>Tue, 04 Aug 2026 14:38:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/e48a2b199db10a89.mp3" length="6344352" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El buen maltratador y mejor padre</title>
       <description>Feminismos – Rebelion — https://rebelion.org/el-buen-maltratador-y-mejor-padre/</description>
       <link>https://rebelion.org/el-buen-maltratador-y-mejor-padre/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">6511f788208895ee</guid>
       <pubDate>Sun, 05 Jul 2026 22:21:59 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/6511f788208895ee.mp3" length="2928528" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El triunfo de los proxenetas</title>
-      <description>Feminismos – Rebelion — https://rebelion.org/el-triunfo-de-los-proxenetas/</description>
-      <link>https://rebelion.org/el-triunfo-de-los-proxenetas/</link>
-      <guid isPermaLink="false">649880792eef6c30</guid>
-      <pubDate>Sun, 05 Jul 2026 22:21:47 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/649880792eef6c30.mp3" length="1440576" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
