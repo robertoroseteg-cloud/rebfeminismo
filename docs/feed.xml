@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Un transfeminismo revolucionario en y contra nuestro tiempo</title>
+      <description>Feminismos – Rebelion — https://rebelion.org/un-transfeminismo-revolucionario-en-y-contra-nuestro-tiempo/</description>
+      <link>https://rebelion.org/un-transfeminismo-revolucionario-en-y-contra-nuestro-tiempo/</link>
+      <guid isPermaLink="false">61c5969f91798903</guid>
+      <pubDate>Fri, 07 Aug 2026 13:38:20 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/61c5969f91798903.mp3" length="4898736" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La cofradía macholibertaria: cuando la crueldad se convierte en identidad</title>
       <description>Feminismos – Rebelion — https://rebelion.org/la-cofradia-macholibertaria-cuando-la-crueldad-se-convierte-en-identidad/</description>
       <link>https://rebelion.org/la-cofradia-macholibertaria-cuando-la-crueldad-se-convierte-en-identidad/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">4c0497d6000f15ae</guid>
       <pubDate>Sun, 05 Jul 2026 22:23:56 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/4c0497d6000f15ae.mp3" length="3581856" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La ternura como brújula ética</title>
-      <description>Feminismos – Rebelion — https://rebelion.org/la-ternura-como-brujula-etica/</description>
-      <link>https://rebelion.org/la-ternura-como-brujula-etica/</link>
-      <guid isPermaLink="false">11a63e80a03986ef</guid>
-      <pubDate>Sun, 05 Jul 2026 22:23:27 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/11a63e80a03986ef.mp3" length="7288560" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
