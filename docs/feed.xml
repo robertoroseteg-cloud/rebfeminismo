@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La economía política feminista de los ecosistemas digitales</title>
+      <description>Feminismos – Rebelion — https://rebelion.org/la-economia-politica-feminista-de-los-ecosistemas-digitales/</description>
+      <link>https://rebelion.org/la-economia-politica-feminista-de-los-ecosistemas-digitales/</link>
+      <guid isPermaLink="false">6fb83bb85fe82613</guid>
+      <pubDate>Sat, 22 Aug 2026 13:00:29 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/6fb83bb85fe82613.mp3" length="6839136" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Cuando la liberación se convierte en mercancía</title>
       <description>Feminismos – Rebelion — https://rebelion.org/cuando-la-liberacion-se-convierte-en-mercancia/</description>
       <link>https://rebelion.org/cuando-la-liberacion-se-convierte-en-mercancia/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">20c314e29e91d55e</guid>
       <pubDate>Sun, 19 Jul 2026 06:56:39 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/20c314e29e91d55e.mp3" length="8417808" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El feminismo iraní entre la guerra y el régimen</title>
-      <description>Feminismos – Rebelion — https://rebelion.org/el-feminismo-irani-entre-la-guerra-y-el-regimen/</description>
-      <link>https://rebelion.org/el-feminismo-irani-entre-la-guerra-y-el-regimen/</link>
-      <guid isPermaLink="false">fbb0fa88071dbdd7</guid>
-      <pubDate>Sun, 19 Jul 2026 06:54:47 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/fbb0fa88071dbdd7.mp3" length="10535328" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
