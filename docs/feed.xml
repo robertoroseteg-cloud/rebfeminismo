@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Sáhara Occidental: mujeres en lucha por una igualdad real</title>
+      <description>Feminismos – Rebelion — https://rebelion.org/sahara-occidental-mujeres-en-lucha-por-una-igualdad-real/</description>
+      <link>https://rebelion.org/sahara-occidental-mujeres-en-lucha-por-una-igualdad-real/</link>
+      <guid isPermaLink="false">43239fe4a80a2dbd</guid>
+      <pubDate>Mon, 31 Aug 2026 19:09:09 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/43239fe4a80a2dbd.mp3" length="5272848" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Ébola: la epidemia está dejando sin atención a mujeres que sufren violencia en RD Congo</title>
       <description>Feminismos – Rebelion — https://rebelion.org/ebola-la-epidemia-esta-dejando-sin-atencion-a-mujeres-que-sufren-violencia-en-rd-congo/</description>
       <link>https://rebelion.org/ebola-la-epidemia-esta-dejando-sin-atencion-a-mujeres-que-sufren-violencia-en-rd-congo/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">30e6a0d93163c189</guid>
       <pubDate>Sun, 19 Jul 2026 07:01:53 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/30e6a0d93163c189.mp3" length="2142720" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Derecho al aborto, el nuevo frente de la extrema derecha</title>
-      <description>Feminismos – Rebelion — https://rebelion.org/derecho-al-aborto-el-nuevo-frente-de-la-extrema-derecha/</description>
-      <link>https://rebelion.org/derecho-al-aborto-el-nuevo-frente-de-la-extrema-derecha/</link>
-      <guid isPermaLink="false">0a21995f44910509</guid>
-      <pubDate>Sun, 19 Jul 2026 07:01:26 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/0a21995f44910509.mp3" length="5144256" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
