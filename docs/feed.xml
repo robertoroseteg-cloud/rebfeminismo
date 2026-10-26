@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>ExpoFamily: defender la familia sin hablar de los cuidados</title>
+      <description>Rebelión · Feminismos — https://rebelion.org/expofamily-defender-la-familia-sin-hablar-de-los-cuidados/</description>
+      <link>https://rebelion.org/expofamily-defender-la-familia-sin-hablar-de-los-cuidados/</link>
+      <guid isPermaLink="false">f53c86632881e2f7</guid>
+      <pubDate>Mon, 26 Oct 2026 18:40:20 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/f53c86632881e2f7.mp3" length="1639728" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La machosfera: un síntoma de la crisis de las masculinidades contemporáneas</title>
       <description>Rebelión · Feminismos — https://rebelion.org/la-machosfera-un-sintoma-de-la-crisis-de-las-masculinidades-contemporaneas/</description>
       <link>https://rebelion.org/la-machosfera-un-sintoma-de-la-crisis-de-las-masculinidades-contemporaneas/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">f995ae68c4111fdd</guid>
       <pubDate>Sat, 25 Jul 2026 15:51:22 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/f995ae68c4111fdd.mp3" length="1090368" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El movimiento Mujeres Agropecuarias en Lucha cumplió 31 años</title>
-      <description>Feminismos – Rebelion — https://rebelion.org/el-movimiento-mujeres-agropecuarias-en-lucha-cumplio-31-anos/</description>
-      <link>https://rebelion.org/el-movimiento-mujeres-agropecuarias-en-lucha-cumplio-31-anos/</link>
-      <guid isPermaLink="false">ccc23bcff92a5423</guid>
-      <pubDate>Fri, 24 Jul 2026 17:58:03 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/ccc23bcff92a5423.mp3" length="1017936" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
