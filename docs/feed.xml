@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Angela Davis, la estanquera de Saigón</title>
+      <description>Rebelión · Feminismos — https://rebelion.org/angela-davis-la-estanquera-de-saigon/</description>
+      <link>https://rebelion.org/angela-davis-la-estanquera-de-saigon/</link>
+      <guid isPermaLink="false">9ff954d73bb1854d</guid>
+      <pubDate>Tue, 03 Nov 2026 19:29:53 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/9ff954d73bb1854d.mp3" length="3266208" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Desfeminizar las iniciativas de parentalidad</title>
       <description>Rebelión · Feminismos — https://rebelion.org/desfeminizar-las-iniciativas-de-parentalidad/</description>
       <link>https://rebelion.org/desfeminizar-las-iniciativas-de-parentalidad/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">e48a2b199db10a89</guid>
       <pubDate>Tue, 04 Aug 2026 14:38:16 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/e48a2b199db10a89.mp3" length="6344352" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El buen maltratador y mejor padre</title>
-      <description>Feminismos – Rebelion — https://rebelion.org/el-buen-maltratador-y-mejor-padre/</description>
-      <link>https://rebelion.org/el-buen-maltratador-y-mejor-padre/</link>
-      <guid isPermaLink="false">c7fa0a6d31b55742</guid>
-      <pubDate>Sat, 01 Aug 2026 13:52:55 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/c7fa0a6d31b55742.mp3" length="4271472" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
