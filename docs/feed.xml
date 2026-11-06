@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>¿Por qué Chile necesita un servicio nacional de masculinidades?</title>
+      <description>Rebelión · Feminismos — https://rebelion.org/por-que-chile-necesita-un-servicio-nacional-de-masculinidades/</description>
+      <link>https://rebelion.org/por-que-chile-necesita-un-servicio-nacional-de-masculinidades/</link>
+      <guid isPermaLink="false">96b7fd51292d5ca6</guid>
+      <pubDate>Fri, 06 Nov 2026 19:21:09 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/96b7fd51292d5ca6.mp3" length="1876320" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Angela Davis, la estanquera de Saigón</title>
       <description>Rebelión · Feminismos — https://rebelion.org/angela-davis-la-estanquera-de-saigon/</description>
       <link>https://rebelion.org/angela-davis-la-estanquera-de-saigon/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">91cc82f2fed98608</guid>
       <pubDate>Thu, 06 Aug 2026 14:33:36 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/91cc82f2fed98608.mp3" length="1835136" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Femicidio político de Monika Silvia Koniuszek, defensora de Derechos Humanos</title>
-      <description>Feminismos – Rebelion — https://rebelion.org/femicidio-politico-de-monika-silvia-koniuszek-defensora-de-derechos-humanos/</description>
-      <link>https://rebelion.org/femicidio-politico-de-monika-silvia-koniuszek-defensora-de-derechos-humanos/</link>
-      <guid isPermaLink="false">e48a2b199db10a89</guid>
-      <pubDate>Tue, 04 Aug 2026 14:38:16 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/e48a2b199db10a89.mp3" length="6344352" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
