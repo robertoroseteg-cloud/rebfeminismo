@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«Es posible crear una nueva comunidad digital donde mujeres y disidencias podamos encontrarnos»</title>
+      <description>Rebelión · Feminismos — https://rebelion.org/es-posible-crear-una-nueva-comunidad-digital-donde-mujeres-y-disidencias-podamos-encontrarnos/</description>
+      <link>https://rebelion.org/es-posible-crear-una-nueva-comunidad-digital-donde-mujeres-y-disidencias-podamos-encontrarnos/</link>
+      <guid isPermaLink="false">7ebb9eccef6657a4</guid>
+      <pubDate>Sat, 07 Nov 2026 17:45:20 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/7ebb9eccef6657a4.mp3" length="3667104" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¿Por qué Chile necesita un servicio nacional de masculinidades?</title>
       <description>Rebelión · Feminismos — https://rebelion.org/por-que-chile-necesita-un-servicio-nacional-de-masculinidades/</description>
       <link>https://rebelion.org/por-que-chile-necesita-un-servicio-nacional-de-masculinidades/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">61c5969f91798903</guid>
       <pubDate>Fri, 07 Aug 2026 13:38:20 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/61c5969f91798903.mp3" length="4898736" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La cofradía macholibertaria: cuando la crueldad se convierte en identidad</title>
-      <description>Feminismos – Rebelion — https://rebelion.org/la-cofradia-macholibertaria-cuando-la-crueldad-se-convierte-en-identidad/</description>
-      <link>https://rebelion.org/la-cofradia-macholibertaria-cuando-la-crueldad-se-convierte-en-identidad/</link>
-      <guid isPermaLink="false">91cc82f2fed98608</guid>
-      <pubDate>Thu, 06 Aug 2026 14:33:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/91cc82f2fed98608.mp3" length="1835136" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
