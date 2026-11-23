@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>El 29N llega sin nosotras</title>
+      <description>Rebelión · Feminismos — https://rebelion.org/el-29n-llega-sin-nosotras/</description>
+      <link>https://rebelion.org/el-29n-llega-sin-nosotras/</link>
+      <guid isPermaLink="false">1c1861b1f5f1c232</guid>
+      <pubDate>Mon, 23 Nov 2026 23:53:29 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/1c1861b1f5f1c232.mp3" length="8173008" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>«Decidí que mi manera de aportar a la reconstrucción de Ruanda sería levantar tumbas de papel»</title>
       <description>Rebelión · Feminismos — https://rebelion.org/decidi-que-mi-manera-de-aportar-a-la-reconstruccion-de-ruanda-seria-levantar-tumbas-de-papel/</description>
       <link>https://rebelion.org/decidi-que-mi-manera-de-aportar-a-la-reconstruccion-de-ruanda-seria-levantar-tumbas-de-papel/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">8d4c729d19c0a2e6</guid>
       <pubDate>Fri, 28 Aug 2026 22:16:45 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/8d4c729d19c0a2e6.mp3" length="2006064" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Diagnosticar a mujeres según los síntomas de los hombres: «La ciencia que se genera es totalmente androcéntrica»</title>
-      <description>Feminismos – Rebelion — https://rebelion.org/diagnosticar-a-mujeres-segun-los-sintomas-de-los-hombres-la-ciencia-que-se-genera-es-totalmente-androcentrica/</description>
-      <link>https://rebelion.org/diagnosticar-a-mujeres-segun-los-sintomas-de-los-hombres-la-ciencia-que-se-genera-es-totalmente-androcentrica/</link>
-      <guid isPermaLink="false">54bfd9a17c204919</guid>
-      <pubDate>Tue, 25 Aug 2026 13:11:01 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebfeminismo/episodios/54bfd9a17c204919.mp3" length="3960288" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
